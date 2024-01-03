@@ -1,0 +1,22 @@
+﻿  board.cpp
+C:\Qt\5.15.0\msvc2019_64\include\QtGui\qpixelformat.h(79,34): warning C5054: operator '+': deprecated between enumerations of different types
+C:\Qt\5.15.0\msvc2019_64\include\QtGui\qpixelformat.h(80,34): warning C5054: operator '+': deprecated between enumerations of different types
+C:\Qt\5.15.0\msvc2019_64\include\QtGui\qpixelformat.h(81,34): warning C5054: operator '+': deprecated between enumerations of different types
+C:\Qt\5.15.0\msvc2019_64\include\QtGui\qpixelformat.h(82,34): warning C5054: operator '+': deprecated between enumerations of different types
+C:\Qt\5.15.0\msvc2019_64\include\QtGui\qpixelformat.h(83,33): warning C5054: operator '+': deprecated between enumerations of different types
+C:\Qt\5.15.0\msvc2019_64\include\QtGui\qpixelformat.h(84,38): warning C5054: operator '+': deprecated between enumerations of different types
+C:\Qt\5.15.0\msvc2019_64\include\QtGui\qpixelformat.h(85,46): warning C5054: operator '+': deprecated between enumerations of different types
+C:\Qt\5.15.0\msvc2019_64\include\QtGui\qpixelformat.h(86,42): warning C5054: operator '+': deprecated between enumerations of different types
+C:\Qt\5.15.0\msvc2019_64\include\QtGui\qpixelformat.h(87,47): warning C5054: operator '+': deprecated between enumerations of different types
+C:\Qt\5.15.0\msvc2019_64\include\QtGui\qpixelformat.h(88,50): warning C5054: operator '+': deprecated between enumerations of different types
+C:\Qt\5.15.0\msvc2019_64\include\QtGui\qpixelformat.h(89,39): warning C5054: operator '+': deprecated between enumerations of different types
+C:\Qt\5.15.0\msvc2019_64\include\QtGui\qpixelformat.h(90,36): warning C5054: operator '+': deprecated between enumerations of different types
+C:\Qt\5.15.0\msvc2019_64\include\QtGui\qpixelformat.h(92,48): warning C5054: operator '+': deprecated between enumerations of different types
+C:\Qt\5.15.0\msvc2019_64\include\QtWidgets\qsizepolicy.h(137,38): warning C5054: operator '&': deprecated between enumerations of different types
+C:\Qt\5.15.0\msvc2019_64\include\QtWidgets\qsizepolicy.h(138,38): warning C5054: operator '&': deprecated between enumerations of different types
+C:\Poly\H21\INF1015\TD\Projet\Livrable3\ProjetTestQt\ProjetTestQt\board.cpp(56,14): warning C4458: declaration of 'x' hides class member
+C:\Poly\H21\INF1015\TD\Projet\Livrable3\ProjetTestQt\ProjetTestQt\board.hpp(44,13): message : see declaration of 'Vue::Board::x'
+C:\Poly\H21\INF1015\TD\Projet\Livrable3\ProjetTestQt\ProjetTestQt\board.cpp(57,14): warning C4458: declaration of 'y' hides class member
+C:\Poly\H21\INF1015\TD\Projet\Livrable3\ProjetTestQt\ProjetTestQt\board.hpp(44,20): message : see declaration of 'Vue::Board::y'
+     Creating library C:\Poly\H21\INF1015\TD\Projet\Livrable3\ProjetTestQt\ProjetTestQt\x64\Debug\ProjetTestQt.lib and object C:\Poly\H21\INF1015\TD\Projet\Livrable3\ProjetTestQt\ProjetTestQt\x64\Debug\ProjetTestQt.exp
+  ProjetTestQt.vcxproj -> C:\Poly\H21\INF1015\TD\Projet\Livrable3\ProjetTestQt\ProjetTestQt\x64\Debug\ProjetTestQt.exe
